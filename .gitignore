@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local-only content (not for publishing)
+refer/
+CLAUDE.md
+AGENTS.md
+.agents/
+.claude/settings.local.json
+
+# Third-party skills (not authored in this repo)
+.claude/skills/becreative/
+.claude/skills/brainstorming/
+.claude/skills/document-auditor/
+.claude/skills/game-changing-features/
+.claude/skills/sequential-thinking/
+.claude/skills/skill-creator/
+.claude/skills/taste-skill/
+.claude/skills/ui-animation/
+.claude/skills/web-access/
